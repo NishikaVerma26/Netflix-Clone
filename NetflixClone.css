@@ -2,8 +2,7 @@
     --primary-color: #e50914;
     --dark-color: #141414;
     --light-color: #f4f4f4;
-  }
-  
+}
   * {
     box-sizing: border-box;
     margin: 0;
@@ -32,7 +31,6 @@
     color: #fff;
     text-decoration: none;
   }
-  
   p {
     margin: 0.5rem 0;
   }
